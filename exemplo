@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <script src="arquivo.js"></script>
+    </head>
+    <body bgcolor="pink">
+<form>
+
+Cor <input type="text" id="cor" onchange="alteraCor(cor.value)">
+Image <input type="text" id="fundo" onchange="alteraFundo(fundo.value)">
+</form>
+ <img src="accelerator.jpg"
+
+    </body>
+</html>
